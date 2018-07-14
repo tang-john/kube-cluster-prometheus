@@ -1,2 +1,2 @@
 # kube-cluster-prometheus
-Kubernetes cluster + Istio 0.7.1 + Prometheus + Grafana
+Kubernetes cluster + MetalLB + Istio 0.7.1 + Jaeger + Bookinfo sample app + Prometheus + Grafana
